@@ -21,3 +21,4 @@ gcc exploit.c -o exploit
 ```
 su
 ```
+![dirtypipe](https://user-images.githubusercontent.com/14928858/157273381-d48fa680-74d1-4b9c-bff9-5f5a108cd279.png)
